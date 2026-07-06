@@ -1,0 +1,53 @@
+{
+  "citations": [
+    {
+      "source": "Engadget",
+      "title": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "\u0622\u064a-\u0641\u0648\u0646 \u0625\u0633\u0644\u0627\u0645",
+      "title": "Google beats Siri and brings automated control to Mac via Gemini Spark",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3ZCR3pQZjV2Ry1Xazd6X3FTalNnVGtRXzY3STgycnhxSFF5VHROdzYxSzJoWVFtcjB6MHNXX1d5cXh1bXNKSERLaGROY2k1d3dFMG5oZDJNaVRXdFNwU1JVaDJKZU9VaFpLN3hBbXFjbkxHc2RGWS1ObHpJRmh5ZnJyY2xGSU1JQi05elhEUzJQRElFMzVyc251em1DdlVVVS1vSWl1ZEFRZDlvRDRFRy1UY01nWDQxdDZtdFhR?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "Google DeepMind Blog",
+      "title": "Introducing the Gemini 2.5 Computer Use model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed(super-vs-siri|competitor_comparison|people comparing Super with Siri|2026-07-06T10:45:07.637655+00:00) -> hero=editorial-split; AIDA Check: Attention(hero contrast), Interest(comparison+bento), Desire(motion+media), Action(CTA band); Font Selection: Cabinet Grotesk; Hero Math Verification: clamp(44px\u201372px) max-width 1120px = 2\u20133 lines; Bento Density Verification: grid-auto-flow:dense confirmed; GSAP Motion Selection: image-scale-fade-scroll + hover-physics; Label Sweep & Button Check: black primary CTA / white secondary CTA verified",
+  "generated_at": "2026-07-06T10:46:08.491329+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents compared for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost. Include a long-form buyer guide with a decision matrix, migration checklist, how-to evaluation plan, and source-backed caveats. Previous comparison-page failures omitted visible buyer-guide and decision-matrix language even when the article was useful; that must never happen. The visible page must include the exact phrases Buyer guide and Decision matrix.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair, source\u2011backed comparison of Super vs Siri for people deciding how far they want AI to go beyond voice commands. Siri is improving as a device\u2011embedded assistant, while Super is built for durable computer\u2011use workflows with a reusable computer-use cache that makes repeated work cheaper and more reliable."
+}
